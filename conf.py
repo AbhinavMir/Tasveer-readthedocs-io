@@ -23,7 +23,7 @@ author = 'Abhinav Srivastava'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
-
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
